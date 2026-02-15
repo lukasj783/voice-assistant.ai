@@ -1,0 +1,7 @@
+{
+  "name": "Nova - Voice Assistant",
+  "description": "A world-class real-time voice assistant powered by Gemini 2.5 Flash Native Audio. Features conversational intelligence, multi-modal interaction, and a sleek modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
